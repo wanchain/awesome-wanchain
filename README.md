@@ -145,8 +145,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Jack Lu's Speech On Wanchain And Its Ecosystem](https://www.youtube.com/watch?v=OeOp0BkZP9U&t=1s) - Speech at Beyond Blocks
 - [Interview With Jack Lu, Founder And CEO At Wanchain](https://medium.com/@liluzivertcoin/interview-with-jack-lu-founder-and-ceo-wanchain-1a994e43ef1a) - Interview by Uzi
 - [Texas Bitcoin Conference](https://www.youtube.com/watch?v=CxL8Saqx5qA&t=1938s) - Jack Lu presenting at Texas Bitcoin conference
-- [Austin Blockchain Collective - Town Hall]
-(https://www.youtube.com/watch?v=T2vy7kgTENc&feature=youtu.be&t=3453) - Wanchain team presenting at Austin Blockchain conference
+- [Austin Blockchain Collective - Town Hall](https://www.youtube.com/watch?v=T2vy7kgTENc&feature=youtu.be&t=3453) - Wanchain team presenting at Austin Blockchain conference
 - [Oliver Birch Interview](https://www.youtube.com/watch?v=ca0uHqiZmsM&feature=youtu.be) - Interview by CryptoDealers
 - [Scott Trowbridge and Oliver Birch Interview](https://www.youtube.com/watch?v=7PUauCKQP1c&t=1s) - Interview by Crypto Bulk
 - [Interviw With Oliver Birch And Dan Reecer About Marketing And Community](https://www.youtube.com/watch?v=HOuEqQ9HqTE) - Interview by Unifi
