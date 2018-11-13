@@ -1,5 +1,7 @@
 # awesome-wanchain
-A collection of resources related to Wanchain# About
+A collection of resources related to Wanchain
+
+# About
 
 Awesome-wanchain aims to be the hub to find useful information about the Wanchain network. The resources listed here can be both technical or high level. Please feel free to make pull requests wherever you feel important information is missing.
 
