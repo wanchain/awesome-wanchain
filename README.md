@@ -124,6 +124,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [CryptoCurve And Wanchain AMA](https://www.reddit.com/r/wanchain/comments/9qpug9/crypto_curve_and_wanchain_ama/) - AMA by Wanchain and Cryptocurve teams
 - [This Is Wanchain Ask Us Anything](https://www.reddit.com/r/wanchain/comments/7qkh8m/this_is_wanchain_ask_us_anything/) - AMA by the Wanchain team
 - [Meet The Wanchain Team](https://www.youtube.com/watch?v=Itsbuh1HtJY) - Video by Wanchain
+- [The Path Toward a Decentralized Financial System](https://medium.com/wanchain-foundation/the-path-towards-a-decentralized-financial-system-250e763dc00d) - Article by Johann Eid
 
 ### Important Milestones 
 
