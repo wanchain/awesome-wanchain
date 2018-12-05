@@ -135,8 +135,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 ### Partnerships And Collaborations
 
 - [MakerDAO’s Dai on Wanchain Becomes First Ever Cross-Chain ERC20 — Beta Testnet Now Open](https://medium.com/wanchain-foundation/https-medium-com-wanchain-foundation-makerdao-dai-on-wanchain-727b0b95df19) - Article by Johann Eid
-- [Wanchain Adds Real-World Data with Chainlink Integration and Partnership]
-(https://medium.com/wanchain-foundation/wanchain-adds-real-world-data-in-partnership-with-chainlink-a7ecf919e181) - Article by Dan Reecer 
+- [Wanchain Adds Real-World Data with Chainlink Integration and Partnership](https://medium.com/wanchain-foundation/wanchain-adds-real-world-data-in-partnership-with-chainlink-a7ecf919e181) - Article by Dan Reecer 
 - [Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
 - [0xcert and Wanchain enter Stretegic Alliance](https://0xcert.org/news/0xcert-and-wanchain-strategic-alliance/) - Article by 0xcert
 - [Wanchain Teams Up With Various Austin Companies to Form Regional Blockchain Innovation Hub](https://www.crowdfundinsider.com/2018/02/128591-wanchain-teams-various-austin-companies-form-regional-blockchain-innovation-hub/) - Article by Samantha Hurst
