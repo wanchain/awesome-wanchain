@@ -114,6 +114,18 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
 - [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
 
+### Differences between MPC and Multi signature
+
+Multi-signature and MPC are both used for managing account by multi party. But MPC has several advantages.
+
+1. __More generic.__ Muti-signature method is always realized through smart contract or spv script. This will limit its range of application. Wanchian’s MPC method could adjust almost to any blockchain architectures no matter whether they support smart contract or not.
+
+2. __Less storage cost.__ Suppose there are N parties controlling an account. To send a transaction from this account, about N signatures need to be attached to the transaction by using Muti-signature method. But using Wanchian’s MPC method, only one signature in the transaction, the same with a normal transaction. Actually, it’s a process of signature aggregation in crypto area. In Wanchain’s MPC method, participants locally generate signature shares and then compute the aggregation of them. Only the final signature is attached in the transaction.
+
+3. __Lower transaction fee.__ Muti-signature method has a larger storage cost, also the verification process needs more computation compared to Wanchian’s MPC method. So Wanchain’s MPC method has a lower transaction fee.
+
+In summary, MPC is more general and has less storage cost and lower transaction fee. So Wanchain choose it in cross-chain designing.
+
 ### AMAs And Messages To Community 
 
 - [Optimizing Wanchain — Transition from Startup Advisory to Ecosystem Growth and Mass Adoption](https://medium.com/wanchain-foundation/optimizing-wanchain-transition-from-startup-advisory-to-ecosystem-growth-and-mass-adoption-21166a75d820) - Article by Oliver Birch
