@@ -86,7 +86,7 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Overview Of Wanchain](https://coincentral.com/wanchain-beginner-guide/) - Article by Stillman
 - [Wanchain Introduction Video](https://www.youtube.com/watch?v=caCXal3ZwfA&feature=youtu.be) - Video by Wanchain
 - [The Importance Of Blockchain Interoperability](https://medium.com/wanchain-foundation/the-importance-of-blockchain-interoperability-b6a0bbd06d11) - Article by Jack Lu
-- [Wanchain - A new way of connection Blockchains](https://medium.com/@interblockchains/wanchain-interoperability-420e5022c138) - Article by Oliver Birch
+- [Wanchain - A new way of connecting Blockchains](https://medium.com/@interblockchains/wanchain-interoperability-420e5022c138) - Article by Oliver Birch
 - [An Overview of the Wanchain Cross-Chain Implementation Model](https://medium.com/wanchain-foundation/an-overview-of-the-wanchain-2-0-cross-chain-implementation-model-c455cfd25664) - Article by Dan Reecer
 - [What is Wanchain?](https://coincentral.com/wanchain-beginner-guide/) - Article by CoinCentral(.com)
 - [Wanchain Architecture](https://www.reddit.com/r/wanchain/comments/7qyixh/still_skeptical_would_anyone_who_understands_the/dstb7lk) - Reddit post by u/phoeniciaStrategy
@@ -114,17 +114,17 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
 - [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
 
-### Differences between MPC and Multi signature
+### Differences between MPC and Multi-signature
 
-Multi-signature and MPC are both used for managing account by multi party. But MPC has several advantages.
+Multi-signature and MPC are both used for managing account with multiple parties. MPC has several benefits over mutli-signature
 
-1. __More generic.__ Muti-signature method is always realized through smart contract or spv script. This will limit its range of application. Wanchian’s MPC method could adjust almost to any blockchain architectures no matter whether they support smart contract or not.
+1. __More generic.__ Muti-signature is always done through smart contract or spv script. This limits its range of application as the underlying infrastructure has to have some kind of scripting support. Wanchain’s MPC method can adjust almost to any blockchain architectures no matter whether they support smart contract or not.
 
-2. __Less storage cost.__ Suppose there are N parties controlling an account. To send a transaction from this account, about N signatures need to be attached to the transaction by using Muti-signature method. But using Wanchian’s MPC method, only one signature in the transaction, the same with a normal transaction. Actually, it’s a process of signature aggregation in crypto area. In Wanchain’s MPC method, participants locally generate signature shares and then compute the aggregation of them. Only the final signature is attached in the transaction.
+2. __Less storage cost.__ Suppose there are N parties controlling an account. To send a transaction from this account, about N signatures need to be attached to the transaction when using multi-signature. But using Wanchian’s MPC method, only one signature is required in the transaction, the same as a normal transaction. MPC is a process of cryptographic signature aggregation. With Wanchain’s MPC method, participants locally generate signature shares and then compute their aggregation. Only the final signature is attached in the transaction.
 
-3. __Lower transaction fee.__ Muti-signature method has a larger storage cost, also the verification process needs more computation compared to Wanchian’s MPC method. So Wanchain’s MPC method has a lower transaction fee.
+3. __Lower transaction fee.__ Muti-signature has a larger storage cost, also the verification process needs more computation compared to Wanchian’s MPC. So Wanchain’s MPC naturally incurs lower transaction fee.
 
-In summary, MPC is more general and has less storage cost and lower transaction fee. So Wanchain choose it in cross-chain designing.
+__In summary, MPC is more general and has less storage cost and lower transaction fee. So Wanchain chose it for its cross-chain design.__
 
 ### AMAs And Messages To Community 
 
