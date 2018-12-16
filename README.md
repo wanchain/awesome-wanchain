@@ -3,7 +3,8 @@ A collection of resources related to Wanchain
 
 # About
 
-Awesome-wanchain aims to be the hub to find useful information about the Wanchain network. The resources listed here can be both technical or high level. Please feel free to make pull requests wherever you feel important information is missing.
+Awesome-wanchain aims to be the hub to find useful information about the Wanchain network. 
+__This document is intended to serve our community and we hope you will be able to contribute to it ! If you find anything missing  please feel free to make a pull request.__
 
 # Overview Of Wanchain
 
@@ -18,9 +19,9 @@ The whole purpose of Blockchain technology was to create a decentralized world w
 
 Wanchain aims to become a hub, where financial applications will host services that provide access to assets such as BTC/ETH/ERC20s, with many more blockchain integrations planned for the near future.
 
-We integrated Ethereum in our 2.0 release, which means users can now transfer ETH to Wanchain. Bitcoin integration is currently on beta testnet as well as the DAI stable coin and MKR token. The release of 3.0 (Bitcoin and ERC20 integration) due by the end of 2018 will allow DEXs built on Wanchain to list ETH/BTC trading pairs for the **first time in the industry.**
+We integrated Ethereum in our 2.0 release, which means users can now transfer ETH to Wanchain. Bitcoin integration is currently on beta testnet as well as the DAI stable coin and MKR token. The release of 3.0 (Bitcoin and ERC20 integration) allows DEXs built on Wanchain to list ETH/BTC trading pairs for the **first time in the industry.**
 
-We already proved that our approach to solving the cross-chain transfer of assets works between 2 networks that use different hashing functions. We can lock assets on native chains and issue their worth in proxy tokens which can be redeemed for the underlying asset at any moment. The entire process is distributed and will be fully decentralized in 2019. 
+We already proved that our approach to solving the cross-chain transfer of assets works between 2 networks that use different hashing functions. We can lock assets on native chains and issue their worth in proxy tokens which can be redeemed for the underlying asset at any moment. The entire process is distributed and will be fully decentralized with the advent of POS in 2019. 
 
 Below is a collection of resources for anyone interested in learning more about Wanchain or building on our platform.
 
@@ -134,7 +135,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 
 ### Partnerships And Collaborations
 
-- [MakerDAO’s Dai on Wanchain Becomes First Ever Cross-Chain ERC20 — Beta Testnet Now Open](https://medium.com/wanchain-foundation/https-medium-com-wanchain-foundation-makerdao-dai-on-wanchain-727b0b95df19) - Article by Johann Eid
+- [MakerDAO’s Dai Stablecoin and MKR are Live on Wanchain, Bringing Interoperability with Bitcoin](https://medium.com/wanchain-foundation/makerdaos-dai-stablecoin-and-mkr-are-live-on-wanchain-bringing-interoperability-with-bitcoin-98d7d808d996) - Article by Johann Eid
 - [Wanchain Adds Real-World Data with Chainlink Integration and Partnership](https://medium.com/wanchain-foundation/wanchain-adds-real-world-data-in-partnership-with-chainlink-a7ecf919e181) - Article by Dan Reecer 
 - [Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
 - [0xcert and Wanchain enter Stretegic Alliance](https://0xcert.org/news/0xcert-and-wanchain-strategic-alliance/) - Article by 0xcert
