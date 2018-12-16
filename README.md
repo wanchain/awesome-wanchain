@@ -34,6 +34,7 @@ Below is a collection of resources for anyone interested in learning more about 
    - [Tutorials](#tutorials)
    - [Technology Analysis](#technology-analysis)
       - [Dive into Secure Multi Party Computation](#dive-into-secure-multi-party-computation)
+      - [Differences between MPC and Multi-signature](#differences-between-mpc-and-multi-signature)
    - [AMAs And Messages To Community](#amas-and-messages-to-community)
    - [Important Milestones](#technology-analysis)
    - [Partnerships And Collaborations](#partnerships-and-collaborations)  
