@@ -34,7 +34,6 @@ Below is a collection of resources for anyone interested in learning more about 
    - [Tutorials](#tutorials)
    - [Technology Analysis](#technology-analysis)
       - [Dive into Secure Multi Party Computation](#dive-into-secure-multi-party-computation)
-      - [Dive into Sharmir's Secret Sharing Scheme](#dive-into-sharmir's-secret-sharing-scheme)
    - [AMAs And Messages To Community](#amas-and-messages-to-community)
    - [Important Milestones](#technology-analysis)
    - [Partnerships And Collaborations](#partnerships-and-collaborations)  
@@ -111,15 +110,13 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Tutorial on Secure Multi Party Computation](https://www.iitk.ac.in/eeold/archive/courses/2013/intel-info/d4pdf1.pdf) - Presentation by Somitra Sanadhya
 - [Protecting Privacy with Secure Multi Party Computation](https://www.newamerica.org/oti/blog/protecting-privacy-secure-multi-party-computation/) - Blog post by Christopher Sadler
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc) - A collection of resources to learn more about MPC compiled by rdragos
-
-#### Dive into Sharmir's Secret Sharing Scheme
-
 - [What is Shamir's Secret Sharing Scheme?](http://point-at-infinity.org/ssss/) - Article published on point-at-infinity(.org)
 - [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
 - [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
 
 ### AMAs And Messages To Community 
 
+- [Optimizing Wanchain — Transition from Startup Advisory to Ecosystem Growth and Mass Adoption](https://medium.com/wanchain-foundation/optimizing-wanchain-transition-from-startup-advisory-to-ecosystem-growth-and-mass-adoption-21166a75d820) - Article by Oliver Birch
 - [A Letter To The Wanchain Community](https://medium.com/wanchain-foundation/a-letter-to-our-community-8bba64ff1cc0) - Letter by Jack Lu 
 - [Wanchain Reddit AMA](https://www.reddit.com/r/wanchain/comments/8wnrj5/wanchain_reddit_ama_is_live/) - AMA by Wanchain team
 - [CryptoCurve And Wanchain AMA](https://www.reddit.com/r/wanchain/comments/9qpug9/crypto_curve_and_wanchain_ama/) - AMA by Wanchain and Cryptocurve teams
@@ -129,12 +126,14 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 
 ### Important Milestones 
 
+- [Wanchain 3.0 Launches Bitcoin Bridge to Ethereum — Continues Rapid Progression in Blockchain Interoperability Mission](https://medium.com/wanchain-foundation/wanchain-3-0-launch-bitcoin-ethereum-erc20-7cd504f25c0c) - Article by Dan Reecer
 - [Wanchain 3.0 Alpha Testnet Is Live](https://medium.com/wanchain-foundation/wanchain-3-0-bridging-bitcoin-ethereum-alpha-testnet-is-live-4fe89a6c1f05) - Article by Jack Lu
 - [Wanchain's Bridge To The Ethereum Blockchain Is Now Open](https://altcointoday.com/wanchains-bridge-to-the-ethereum-blockchain-is-now-open/) - Article by AltcoinToday(.com) for the release of version 2.0 
 - [Wanchain's Mainnet Is Live Video](https://www.youtube.com/watch?v=sxQe0NiZvB0) - Short video by Wanchain
 
 ### Partnerships And Collaborations
 
+- [Wanchain and Chain Accelerator Establish Collaboration in France](https://medium.com/wanchain-foundation/wanchain-and-chain-accelerator-establish-collaboration-in-france-fdd96149276a) - Article by Johann Eid
 - [MakerDAO’s Dai Stablecoin and MKR are Live on Wanchain, Bringing Interoperability with Bitcoin](https://medium.com/wanchain-foundation/makerdaos-dai-stablecoin-and-mkr-are-live-on-wanchain-bringing-interoperability-with-bitcoin-98d7d808d996) - Article by Johann Eid
 - [Wanchain Adds Real-World Data with Chainlink Integration and Partnership](https://medium.com/wanchain-foundation/wanchain-adds-real-world-data-in-partnership-with-chainlink-a7ecf919e181) - Article by Dan Reecer 
 - [Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
