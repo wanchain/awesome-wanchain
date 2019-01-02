@@ -181,7 +181,7 @@ __In summary, MPC is more general and has less storage cost and lower transactio
 
 ### Clients
 
-- [Go-client](https://github.com/wanchain/go-wanchain/wiki/Install-and-build) - Wanchain's official client written in Go
+- [go-wanchain](https://github.com/wanchain/go-wanchain/wiki/Install-and-build) - Wanchain's official client written in Go
 
 #### Hardware Wallets
   
