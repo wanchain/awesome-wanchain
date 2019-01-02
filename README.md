@@ -1,14 +1,14 @@
 # Awesome WANCHAIN[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="img/wanchain-logo.svg" align="right" width="150">](https://wanchain.org)
+
+
 > A curated list of _awesome_ resources, apps, wallets, partners and media to learn everything about the WAN blockchain.
 
 [Wanchain](https://wanchain.org) is a smart contract platform which allows for the transfer of value between different blockchains. 
 
 > Any contribution to this repo is more then welcome [follow this guide](contribute.md).
 
-
-
-[<img src="img/wanchain-logo.svg" align="right" width="150">](https://wanchain.org)
 
 ---
 ## Table of Contents
