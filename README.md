@@ -5,10 +5,10 @@
 
 > A curated list of _awesome_ resources, apps, wallets, partners and media to learn everything about the WAN blockchain.
 
-[Wanchain](https://wanchain.org) is a smart contract platform which allows for the transfer of value between different blockchains. 
+[Wanchain](https://wanchain.org) is a smart contract platform which allows for the decentralized transfer of value between different blockchains. Our end goal is to host an ecosystem of multi asset financial applications such as exchanges, loans, options and derivatives to allow for the crypto economy to grow and prosper.
 
 > Any contribution to this repo is more then welcome [follow this guide](contribute.md).
-
+>Items marked with  are officially maintained and distributed by the Wanchain Foundation as part of the core set of applications and tools.
 
 ---
 ## Table of Contents
