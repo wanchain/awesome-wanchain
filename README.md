@@ -23,24 +23,13 @@ This document is intended to serve our community and we hope you will be able to
 
 
 
-# Overview Of Wanchain
+# Awesome WANCHAIN[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[Wanchain](https://wanchain.org) is a smart contract platform which allows for the transfer of value between different blockchains. 
 
-[Wanchain](https://wanchain.org) is a public blockchain working on solving cross-chain interoperability. 
+> A curated list of _awesome_ resources, apps, wallets, partners and media to learn everything about the WAN blockchains.
 
-The financial ecosystem of tomorrow will be built on many assets relying on heterogeneous chains, protocols and technologies. Wanchain aims to link all these assets, in a decentralized trustless and permissionless manner.
-
-A decentralized interoperability solution is the required component that’s necessary to create a new financial system.  The current industry is relying on too many third parties such as centralized exchanges and custodians in order to operate. 
-
-The whole purpose of Blockchain technology was to create a decentralized world where value and data could flow freely without intermediaries, in a fully peer to peer manner.
-
-Wanchain aims to become a hub, where financial applications will host services that provide access to assets such as BTC/ETH/ERC20s, with many more blockchain integrations planned for the near future.
-
-We integrated Ethereum in our 2.0 release, which means users can now transfer ETH to Wanchain. Bitcoin integration is currently on beta testnet as well as the DAI stable coin and MKR token. The release of 3.0 (Bitcoin and ERC20 integration) allows DEXs built on Wanchain to list ETH/BTC trading pairs for the **first time in the industry.**
-
-We already proved that our approach to solving the cross-chain transfer of assets works between 2 networks that use different hashing functions. We can lock assets on native chains and issue their worth in proxy tokens which can be redeemed for the underlying asset at any moment. The entire process is distributed and will be fully decentralized with the advent of POS in 2019. 
-
-Below is a collection of resources for anyone interested in learning more about Wanchain or building on our platform.
+[<img src="img/wanchain-logo.svg" align="right" width="150">](https://wanchain.org)
 
 ---
 ## Table of Contents
