@@ -186,7 +186,6 @@ __In summary, MPC is more general and has less storage cost and lower transactio
 
 - [WanWallet](https://wanchain.org/products)
 - [Cryptocurve wallet](https://cryptocurve.io/wallet)
-- []
 
 #### Extension Wallets
 
@@ -198,7 +197,9 @@ __In summary, MPC is more general and has less storage cost and lower transactio
 
 #### Mobile Wallets
 
-- [Trust Wallet](https://trustwallet.com/) - Binance's official wallet supports Wancoin 
+- [Trust Wallet](https://trustwallet.com/) - Binance's official wallet supports WAN 
+- [Theia Wallet](https://www.thachain.org/#press)
+
 
 #### Hardware Wallets
   
