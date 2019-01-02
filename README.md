@@ -1,4 +1,4 @@
-# Awesome WANCHAIN[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Wanchain[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="img/wanchain-logo.svg" align="right" width="150">](https://wanchain.org)
 
@@ -9,7 +9,7 @@
 
 > Any contribution to this repo is more then welcome [follow this guide](contribute.md)
 
->Items marked with  are officially maintained and distributed by the Wanchain Foundation as part of the core set of applications and tools
+>Items marked with ![Wanchain Core][Wanchain Core]  are officially maintained and distributed by the Wanchain Foundation as part of the core set of applications and tools
 
 ---
 ## Table of Contents
@@ -292,4 +292,7 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 - [Quant Network](https://www.quant.network/)
 - [ARK](https://ark.io/)
 - [Block Collider](https://www.blockcollider.org/)
+
+
+ [Wanchain Core]: img/wanchain-symbolic-logo.svg
 
