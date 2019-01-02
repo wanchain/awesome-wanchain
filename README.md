@@ -26,9 +26,9 @@
    - [Partnerships And Collaborations](#partnerships-and-collaborations)  
    - [Interviews And Conferences](#interviews-and-conferences)  
    - [Articles And Videos](#articles-and-videos )  
-- [Get Wancoins](#get-wancoins)
+- [Get WAN](#get-wan)
 - [Tools](#tools)
-   - [Store your Wancoins](#store-your-wancoins)
+   - [Store your WAN](#store-your-wan)
        - [Hardware wallets](#hardware-wallets)
        - [Extension wallets](#extension-wallets)
        - [Web wallets](#web-wallets)
@@ -160,7 +160,7 @@ __In summary, MPC is more general and has less storage cost and lower transactio
 - [Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
 
 ---
-# Find Wancoins
+# Find WAN
 
 ### Exchanges 
 
@@ -176,18 +176,18 @@ __In summary, MPC is more general and has less storage cost and lower transactio
 ---
 # Tools
 
-
-### Store Your Wancoins
-
 ### Clients
 
 - [go-wanchain](https://github.com/wanchain/go-wanchain/wiki/Install-and-build) - Wanchain's official client written in Go
 
-#### Hardware Wallets
-  
-- [Trezor](https://trezor.io/) - The first hardware walllet
-- [Ledger Nano S](https://www.ledger.com/products/ledger-nano-s) - The French hardware wallet :blush: 
-  
+### Store Your WAN
+
+#### Wallets 
+
+- [WanWallet](https://wanchain.org/products)
+- [Cryptocurve wallet](https://cryptocurve.io/wallet)
+- []
+
 #### Extension Wallets
 
 - [Wanmask](https://wanmask.io/)
@@ -199,16 +199,22 @@ __In summary, MPC is more general and has less storage cost and lower transactio
 #### Mobile Wallets
 
 - [Trust Wallet](https://trustwallet.com/) - Binance's official wallet supports Wancoin 
+
+#### Hardware Wallets
+  
+- [Trezor](https://trezor.io/) - The first hardware walllet
+- [Ledger Nano S](https://www.ledger.com/products/ledger-nano-s) - The French hardware wallet :blush: 
   
 #### Explorers
  
 - [Wanchain block explorer](https://www.wanscan.org/) - The official Wanchain explorer
 - [Wanscan](https://wanscan.io/home) - A community built block explorer
 - [Wanchain network stats ](https://wanstats.net//)
+- [CryptoCurve explorer](https://explorer.cryptocurve.xyz/)
 
 #### Faucets
 
-- [WanFaucet](https://wanfaucet.net/) - Instantly get Wancoins to fund your OTA transactions 
+- [WanFaucet](https://wanfaucet.net/) - Instantly get WAN to fund your OTA transactions 
 
 #### Wanchain name service 
 
