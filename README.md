@@ -9,7 +9,7 @@
 
 > Any contribution to this repo is more then welcome [follow this guide](contribute.md)
 
->Items marked with ![Wanchain Core][Wanchain Core]  are officially maintained and distributed by the Wanchain Foundation as part of the core set of applications and tools
+>Items marked with ![Wanchain Core][Wanchain Core] are officially maintained and distributed by the Wanchain Foundation as part of the core set of applications and tools
 
 ---
 ## Table of Contents
@@ -47,12 +47,13 @@
 **Official Links**
 --
 
-- [Main website](https://wanchain.org)
+- [Main website](https://wanchain.org) - Wanchain Foundation website ![Wanchain Core][Wanchain Core]
+- [WanWallet](https://wanchain.org/product) - Wanchain official secure wallet ![Wanchain Core][Wanchain Core]
+- [Wanscan](https://www.wanscan.org/) -  Wanchain explorer ![Wanchain Core][Wanchain Core]
 - [Whitepaper](https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf) 
 - [Yellow paper](https://wanchain.org/files/Wanchain-Yellowpaper-EN-version.pdf) 
-- [Commercial paper](https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf)
-- [Official wallet download page](https://wanchain.org/product)
-- [Explorer](https://www.wanscan.org/)
+- [Commercial paper](https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf)  
+
 
 ## Official Communication Channels
 
@@ -184,7 +185,7 @@ __In summary, MPC is more general and has less storage cost and lower transactio
 
 #### Wallets 
 
-- [WanWallet](https://wanchain.org/products)
+- [WanWallet](https://wanchain.org/products) - Wanchain official secure wallet ![Wanchain Core][Wanchain Core]
 - [Cryptocurve wallet](https://cryptocurve.io/wallet)
 
 #### Extension Wallets
@@ -208,8 +209,8 @@ __In summary, MPC is more general and has less storage cost and lower transactio
   
 #### Explorers
  
-- [Wanchain block explorer](https://www.wanscan.org/) - The official Wanchain explorer
-- [Wanscan](https://wanscan.io/home) - A community built block explorer
+- [Wanscan](https://www.wanscan.org/) - The official Wanchain explorer ![Wanchain Core][Wanchain Core]
+- [Wanchain block explorer](https://wanscan.io/home) - A community built block explorer
 - [Wanchain network stats ](https://wanstats.net//)
 - [CryptoCurve explorer](https://explorer.cryptocurve.xyz/)
 
