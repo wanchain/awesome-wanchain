@@ -179,7 +179,7 @@ __In summary, MPC is more general and has less storage cost and lower transactio
 
 ### Clients
 
-- [go-wanchain](https://github.com/wanchain/go-wanchain/wiki/Install-and-build) - Wanchain's official client written in Go
+- [go-wanchain](https://github.com/wanchain/go-wanchain/wiki/Install-and-build) - Wanchain's official client written in Go ![Wanchain Core][Wanchain Core]
 
 ### Store Your WAN
 
@@ -242,6 +242,14 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 * [LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23) - Low-level Lisp-like Language
 * [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
 
+
+#### Cross chain transaction APIs  
+- [wanx](https://github.com/wanchain/wanx) - Utility for making cross chain transactions on the wanchain network. 
+- [Javascript SDK for ETH and ERC20 transactions](https://github.com/wanchain/wanchain-js-sdk)
+- [Javascipt SDK for BTC transactions](https://github.com/wanchain/wanchain-crosschain/blob/wanchain30_release/docs/btc-crosschain-sdk-user-manual.md)
+(https://github.com/wanchain/wanchain-js-storeman) - Storemen code 
+- [wanchain crosschain contracts](https://github.com/wanchain/wanchain-crosschain-contracts) - Wanchain crosschain contracts 
+
 #### Frameworks
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, and [Drizzle](https://github.com/truffle-box/drizzle-box) and Ganache, which we forked and adapted to Wanchain with [Wanache](https://github.com/C3Devs/wanache)
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
@@ -262,13 +270,7 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 * [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
 * [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
 
-#### Github Repos
-- [Wanx](https://github.com/wanchain/wanx) - Utility for making cross chain transactions on the wanchain network.  
-- [go-wanchain](https://github.com/wanchain/go-wanchain) - Official go implementation of the Wanchain client
-- [Wanchain ICO verification tool](https://github.com/wanchain/wanchain-ico-verification) - Wanchian ICO verification tool
-- [wanchain storeman](https://github.com/wanchain/wanchain-js-storeman) - Storemen code 
-- [wanchain crosschain contracts](https://github.com/wanchain/wanchain-crosschain-contracts) - Wanchain crosschain contracts 
-- [wanchain name service](https://github.com/wanchain/wns) - Wanchain Name service 
+
 
 # Interoperability Overview 
 
