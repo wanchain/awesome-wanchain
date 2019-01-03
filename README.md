@@ -100,9 +100,10 @@
 - [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
 - [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
 
-### Technology FAQ 
+#### Technology FAQ 
 
 - [Why is Wanchain using SMPC instead of Mullti-signature ?](SMPC-multisig-differences.md)
+- 
 
 
 ### AMAs And Messages To Community 
