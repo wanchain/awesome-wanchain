@@ -1,3 +1,5 @@
+# Why is Wanchain using SMPC instead of Mullti-signature ?
+
 
 Multi-signature and MPC are both used for managing account with multiple parties. MPC has several benefits over mutli-signature
 
