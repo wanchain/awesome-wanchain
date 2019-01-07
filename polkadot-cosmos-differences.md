@@ -1,4 +1,4 @@
-#Polkadot and Cosmos Differences 
+# Polkadot and Cosmos Differences 
 
 Polkadot and Cosmos share a of similiraties, for this reason we are going to list the main differences in the same section. 
 
