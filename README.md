@@ -186,7 +186,7 @@
   
 #### Web Wallets
 
-- [MyWanWallet](http://mywanwallet.com/) - Open source web wallet with Wancoin and WRC20 support 
+- [MyWanWallet](https://mywanwallet.nl/#generate-wallet) - Open source web wallet with Wancoin and WRC20 support 
 
 #### Mobile Wallets
 
