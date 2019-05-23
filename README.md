@@ -246,7 +246,8 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The EVM development framework with the most cute animal pictures
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
-
+* [0xcert](https://github.com/0xcert/framework) - JavaScript framework for building decentralized applications
+* [Specron](https://specron.github.io/framework/) - Lightweight, open-source and magic-free framework for testing Solidity smart contracts
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
